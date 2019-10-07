@@ -1,0 +1,16 @@
+{
+  "name": "cabinet",
+  "version": "1.0.0",
+  "description": "A collection of awesome tools",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": ["tool"],
+  "author": "champyin",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.1.0"
+  }
+}
