@@ -7,7 +7,9 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "keywords": ["tool"],
+  "keywords": [
+    "tool"
+  ],
   "author": "champyin",
   "license": "MIT",
   "devDependencies": {

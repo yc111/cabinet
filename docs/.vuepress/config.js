@@ -1,6 +1,9 @@
 module.exports = {
-    title: 'Code Lib',
-    description: "Champyin's Code Lib",
+    title: 'Cabinet',
+    head: [
+        ['link', { rel: 'icon', type: "image/vnd.microsoft.icon", href: `./favicon.ico` }]
+     ],
+    description: "Champyin's Cabinet",
     themeConfig: {
         nav: [
             {text: '工具',link: 'tools/'},
