@@ -11,6 +11,7 @@ sidebar: false
 - [codepen](https://codepen.io)
 - [jsfiddle](https://jsfiddle.net)
 - [透明背景素材下载](https://www.pngfly.com)
+- [jQuery插件库](http://www.jq22.com)
 
 ## 优质博客
 - [w3cplus](https://www.w3cplus.com/)
