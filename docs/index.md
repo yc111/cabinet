@@ -1,6 +1,6 @@
 
 <LinkCell 
-    ctitle="Promise 详解" 
-    summary="summaru"
-    linkpath="./promise"
+    ctitle="好用的vscode插件记录" 
+    summary="tag: vscode"
+    linkpath="./vscode-plugins"
 ></LinkCell>
