@@ -3,6 +3,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', type: "image/vnd.microsoft.icon", href: `./favicon.ico` }]
      ],
+    base: '/cabinet/',
     description: "Champyin's Cabinet",
     themeConfig: {
         nav: [

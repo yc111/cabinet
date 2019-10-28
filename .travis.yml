@@ -1,0 +1,27 @@
+language: node_js
+node_js: "10.16.3"
+cache:
+  directories:
+  - node_modules
+
+install:
+  - npm i
+
+script:
+  - npm run docs:build
+
+after_script:
+  - git clone "https://github.com/yc111/cabinet.git" .temp
+  - cd .temp
+  - git checkout master
+  - cd ..
+  - mv .temp/.git docs/.vuepress/dist
+  - cd docs/.vuepress/dist
+  - git add .
+  - git commit -m ":construction_worker:- Build & Deploy by Travis CI"
+  - git branch -a
+  - git push --force --quiet "https://${Travis_Token}@github.com/yc111/cabinet.git" master:master
+
+branches:
+  only:
+    - source

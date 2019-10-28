@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/yc111/cabinet.svg?branch=source)](https://travis-ci.org/yc111/cabinet)
