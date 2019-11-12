@@ -12,6 +12,7 @@ sidebar: false
 - [jsfiddle](https://jsfiddle.net)
 - [透明背景素材下载](https://www.pngfly.com)
 - [jQuery插件库](http://www.jq22.com)
+- [好看的渐变色值](https://uigradients.com/#MangoPulp)
 
 ## 优质博客
 - [w3cplus](https://www.w3cplus.com/)
