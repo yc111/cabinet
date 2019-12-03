@@ -14,6 +14,10 @@ sidebar: false
 - [jQuery插件库](http://www.jq22.com)
 - [好看的渐变色值](https://uigradients.com/#MangoPulp)
 - [配色达人](http://www.peise.net/tools/web/)
+- [透明背景素材网站2](http://pngimg.com/)
+- [ps钢笔工具练习网站](https://bezier.method.ac/)
 
+app
+- [gif制作](https://gifox.io/)
 ## 优质博客
 - [w3cplus](https://www.w3cplus.com/)
