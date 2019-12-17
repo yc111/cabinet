@@ -16,8 +16,11 @@ sidebar: false
 - [配色达人](http://www.peise.net/tools/web/)
 - [透明背景素材网站2](http://pngimg.com/)
 - [ps钢笔工具练习网站](https://bezier.method.ac/)
+- [css贝塞尔曲线](http://www.css3beziercurve.net/)
 
 app
 - [gif制作](https://gifox.io/)
+
 ## 优质博客
 - [w3cplus](https://www.w3cplus.com/)
+- [tobiasahlin-css优质博客](https://tobiasahlin.com/)
