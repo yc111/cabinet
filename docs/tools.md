@@ -19,6 +19,7 @@ sidebar: false
 - [ps钢笔工具练习网站](https://bezier.method.ac/)
 - [css贝塞尔曲线](http://www.css3beziercurve.net/)
 - [阿里云DATAV GeoAtlas工具-提供抽取行政区划数据的接口](https://datav.aliyun.com/tools/atlas/#&lat=33.521903996156105&lng=104.29849999999999&zoom=4)
+- [非常实用的地图工具](https://map.51240.com/)
 
 ## papers|books download
 - [library genesis](http://gen.lib.rus.ec/)
