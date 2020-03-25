@@ -22,6 +22,7 @@ sidebar: false
 - [非常实用的地图工具](https://map.51240.com/)
 - [css3lib](http://css3lib.alloyteam.com/)
 - [前端面试题](http://blog.v2ee.cn/)
+- [bage小图标生成器](https://badge.fury.io/)
 
 ## papers|books download
 - [library genesis](http://gen.lib.rus.ec/)
