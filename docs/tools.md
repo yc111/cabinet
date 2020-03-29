@@ -26,6 +26,7 @@ sidebar: false
 
 ## papers|books download
 - [library genesis](http://gen.lib.rus.ec/)
+- [sci paper](https://gfsoso.99lb.net/sci-hub.html)
 
 ## app
 - [gif制作](https://gifox.io/)
